@@ -1,0 +1,10 @@
+DATABASE:
+1 Idea struttura FATTA!
+2 Divisione struttura:
+	2.1 Login
+	2.2 UtenteProfilo
+	2.2 GestoreVideo
+	2.3 GestoreAmicizie
+
+3. Creare il backand Login....
+4. Creare il backand per la pagina profilo....
